@@ -66,4 +66,4 @@ These are reproduction checks, not claims that Packet Tracer has been rerun duri
 
 ## Credits
 
-Joint coursework by Youssef El Ghouari and Abdelkarim Redouani, supervised by Soukayna Riffi Boualam. Cisco Packet Tracer is not bundled. No license is assigned to the simulator or other third-party Material.
+Joint coursework by Youssef El Ghouari and Abdelkarim Redouani, supervised by Soukayna Riffi Boualam. Cisco Packet Tracer is not bundled. No license is assigned to the simulator or other third-party material.
